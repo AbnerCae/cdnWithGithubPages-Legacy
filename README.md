@@ -4,4 +4,5 @@
 <p align="center">Este projeto tem como objetivo aprimorar os meus bots do Discord, onde dados de imagens são armazenados aqui para aumentar a eficiência dos comandos.</p>
 
 [Mus Project](https://r4l7.github.io/projectCDN/musProject/)
+
 [Random projects and Files](https://r4l7.github.io/projectCDN/resource/)
